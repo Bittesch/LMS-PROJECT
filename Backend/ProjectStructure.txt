@@ -1,0 +1,21 @@
+project-root
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── example
+│   │   │           ├── dao
+│   │   │           ├── model
+│   │   │           ├── service
+│   │   │           └── servlet
+│   │   ├── resources
+│   │   └── webapp
+│   │       ├── WEB-INF
+│   │       │   └── web.xml
+│   │       ├── index.html
+│   │       └── styles
+│   └── test
+│       ├── java
+│       └── resources
+├── pom.xml (if using Maven)
+└── build.gradle (if using Gradle)
